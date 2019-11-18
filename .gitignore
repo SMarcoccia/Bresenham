@@ -1,0 +1,9 @@
+# Extension.
+
+*.o
+*.rar
+*.exe
+
+
+# Dossier
+/.vscode
