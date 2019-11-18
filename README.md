@@ -32,7 +32,8 @@ Algorithme pour le traçage de lignes et de cercles.
         - Dans la fenêtre d'affichage il y a juste a faire un clic gauche.
 
   ## Note :  
-    - si vous afficher la fonction ellipse elle se trouvera dans le coin supérieur gauche de la fenêtre, on ne peut afficher qu'une fois l'ellipse. 
+    - si vous afficher la fonction ellipse elle se trouvera dans le coin supérieur gauche de la fenêtre, 
+      on ne peut afficher qu'une fois l'ellipse. 
     - Pour changer de tracé obliger de retourner dans le code et de choisir la fonction voulue.
     - Ce projet à été fait il y a plusieurs années.
     
